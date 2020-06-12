@@ -1,0 +1,29 @@
+.jumbotron
+{
+	background-image:url("abc.jpg");
+	background-size: 100%;
+}
+
+.topright {
+  position: absolute;
+  top: 90px;
+  right: 200px;
+  width: 15%;
+  border-radius: 100%;
+}
+.skl{
+	background-image: url("abc.jpg");
+	background-size: 100%;
+	border-radius:1%; 
+}
+.hob{
+	background-image: url("abc.jpg");
+	background-size: 100%;
+	border-radius:1%; 
+}
+.exp{
+	background-image: url("abc.jpg");
+	background-size: 100%; 
+	border-radius:1%;
+
+}
